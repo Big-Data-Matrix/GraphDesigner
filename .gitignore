@@ -1,0 +1,11 @@
+.idea/
+*.pyc
+docs/_build
+*egg-info
+.tox
+.coverage
+v
+.idea
+dist
+build
+SpiderKeeper.db
